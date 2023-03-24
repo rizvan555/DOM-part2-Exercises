@@ -11,9 +11,9 @@ body {
 }
 
 button {
-  padding: 5px;
-  margin: 5px;
-  border-radius: 5px;
+  padding: 6px;
+  margin: 6px;
+  border-radius: 6px;
   background: #42dee1;
   color: #eef5b2;
   font-weight: bold;
@@ -21,6 +21,6 @@ button {
 
 output {
   display: block;
-  padding: 20px;
+  padding: 22px;
   font-weight: bold;
 }
